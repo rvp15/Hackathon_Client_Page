@@ -22,6 +22,9 @@ Command : npm start (for both client and server)
  - Digital content library
  - Interactive feedback
 
+#
+Link to Client Page: https://rvp15.github.io/Hackathon_Client_Page/
+
 Application Layout:
 - Home Page
 ![screenshot_1.png](src/assets/screenshot_1.png)
